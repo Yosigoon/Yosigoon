@@ -4,8 +4,8 @@
 	
   </div>
 ### Hi there 👋
-<h3 align="center">🌈 Follow Me 🌈</h3>
-<p align="center">
+<h2 align="left">🌈 Follow Me</h2>
+<p align="left">
   <a href="https://www.instagram.com/_hyeong_won/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_hyeong_won/"/></a>&nbsp
   <a href="mailto:yosigoon@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yosigoon@gmail.com"/></a>
 </p>
