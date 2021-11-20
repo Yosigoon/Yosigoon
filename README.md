@@ -1,11 +1,11 @@
- <div align=center>
+ <div align=right>
 	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYosigoon)](https://hits.seeyoufarm.com) 
 	
   </div>
 
 ## Hi there 👋
-<h2 align="left">🌈 Follow Me</h2>
+<h4 align="left">🌈 Follow Me</h4>
 <p align="left">
   <a href="https://www.instagram.com/_hyeong_won/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_hyeong_won/"/></a>&nbsp
   <a href="mailto:yosigoon@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yosigoon@gmail.com"/></a>
