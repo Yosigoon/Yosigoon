@@ -1,5 +1,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYosigoon)](https://hits.seeyoufarm.com)                    
 ## Hi there 👋
+
+💪 Skills
+Platforms & Languages
+
+
 <h4 align="left">🌈 Follow Me</h4>
 <p align="left">
 	<a href="https://www.instagram.com/_hyeong_won/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_hyeong_won/"/>
