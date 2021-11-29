@@ -1,4 +1,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYosigoon)](https://hits.seeyoufarm.com)            
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 ## Hi there 👋
 
 ## 💪 Skills
