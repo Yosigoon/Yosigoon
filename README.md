@@ -1,8 +1,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYosigoon)](https://hits.seeyoufarm.com)            
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-## Hi there 👋
+### Hi there 👋
 
-## 💪 Skills
+### 💪 Skills
 
 Languages
 
@@ -13,7 +13,7 @@ Languages
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 
 
-<h4 align="left">🌈 Follow Me</h4>
+###🌈 Follow Me
 <p align="left">
 	<a href="https://www.instagram.com/_hyeong_won/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_hyeong_won/"/>
 	</a>
