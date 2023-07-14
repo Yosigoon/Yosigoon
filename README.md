@@ -32,8 +32,9 @@ Hi there 👋
 </p>
 
 
-#### Pinned
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yosigoon&show_icons=true&theme=tokyonight)
+<!-- #### Pinned
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yosigoon&show_icons=true&theme=tokyonight) 
+-->
 
 
 
